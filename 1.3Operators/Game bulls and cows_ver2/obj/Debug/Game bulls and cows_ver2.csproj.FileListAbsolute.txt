@@ -1,0 +1,7 @@
+D:\My\Programm\ITCloud\HomeWork\1.3Operators\Game bulls and cows_ver2\obj\Debug\Game bulls and cows_ver2.csprojResolveAssemblyReference.cache
+D:\My\Programm\ITCloud\HomeWork\1.3Operators\Game bulls and cows_ver2\obj\Debug\Game bulls and cows_ver2.csproj.CoreCompileInputs.cache
+D:\My\Programm\ITCloud\HomeWork\1.3Operators\Game bulls and cows_ver2\bin\Debug\Game bulls and cows_ver2.exe.config
+D:\My\Programm\ITCloud\HomeWork\1.3Operators\Game bulls and cows_ver2\bin\Debug\Game bulls and cows_ver2.exe
+D:\My\Programm\ITCloud\HomeWork\1.3Operators\Game bulls and cows_ver2\bin\Debug\Game bulls and cows_ver2.pdb
+D:\My\Programm\ITCloud\HomeWork\1.3Operators\Game bulls and cows_ver2\obj\Debug\Game bulls and cows_ver2.exe
+D:\My\Programm\ITCloud\HomeWork\1.3Operators\Game bulls and cows_ver2\obj\Debug\Game bulls and cows_ver2.pdb

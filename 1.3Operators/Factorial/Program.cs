@@ -18,12 +18,13 @@ namespace Factorial
                 type = Int64.TryParse(Console.ReadLine(), out a);
             }
             while (a < 1 || a > 20);
-                Console.WriteLine("{0}!={1}", a, Factorial(a));
+                Console.WriteLine("{0}!={1}", a, Math.Exp(a));
                 Console.WriteLine("Press any key");
                 Console.ReadKey();
             }
-        public static long Factorial(long a)
+      /*  public static long Factorial(long a)
             {
+            a=Math.Exp()
                 long rez = a;
                 if (a == 0) return 1;
                 else
@@ -35,7 +36,7 @@ namespace Factorial
                     return rez;
                 }
             }
-
+*/
 
         }
     }
