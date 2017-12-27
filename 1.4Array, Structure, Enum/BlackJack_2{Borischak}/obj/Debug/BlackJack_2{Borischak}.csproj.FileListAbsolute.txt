@@ -1,0 +1,7 @@
+D:\My\Programm\ITCloud\HomeWork\1.4Array, Structure, Enum\BlackJack_2{Borischak}\bin\Debug\BlackJack_2{Borischak}.exe.config
+D:\My\Programm\ITCloud\HomeWork\1.4Array, Structure, Enum\BlackJack_2{Borischak}\bin\Debug\BlackJack_2{Borischak}.exe
+D:\My\Programm\ITCloud\HomeWork\1.4Array, Structure, Enum\BlackJack_2{Borischak}\bin\Debug\BlackJack_2{Borischak}.pdb
+D:\My\Programm\ITCloud\HomeWork\1.4Array, Structure, Enum\BlackJack_2{Borischak}\obj\Debug\BlackJack_2{Borischak}.csprojResolveAssemblyReference.cache
+D:\My\Programm\ITCloud\HomeWork\1.4Array, Structure, Enum\BlackJack_2{Borischak}\obj\Debug\BlackJack_2{Borischak}.csproj.CoreCompileInputs.cache
+D:\My\Programm\ITCloud\HomeWork\1.4Array, Structure, Enum\BlackJack_2{Borischak}\obj\Debug\BlackJack_2{Borischak}.exe
+D:\My\Programm\ITCloud\HomeWork\1.4Array, Structure, Enum\BlackJack_2{Borischak}\obj\Debug\BlackJack_2{Borischak}.pdb
